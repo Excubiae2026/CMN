@@ -2,6 +2,13 @@
 # Crypto Mesh Node - Updates
 # ============================
 
+## v1.3 - 2025-11-04
+- Added Binance Smart Chain (BSC) wallet derived from node private key.
+- Wallet automatically generates address and linked private key.
+- Users can check balance and send BNB directly from the GUI.
+- Wallet tab added for monitoring and managing BSC wallet.
+- Maintains all previous Discord node functionality with improved stability.
+
 ## v1.0.3 - 2025-11-03
 - Refactored code into modular components:
 - Enhanced key loading validation and user feedback.
