@@ -28,7 +28,6 @@ Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built 
 <b>Disclaimer:</b><br>
 Crypto Mesh Node is provided as-is. Users are responsible for safeguarding their private keys and wallet information. The software is intended for educational and experimental purposes. Use at your own risk.<br><br>
 
-<b>Crypto Mesh Node v1.3 - Alpha</b><br>
-Version: Up to date (1.3)<br><br>
 
-<b>Developed by:</b> CryptoMesh Labs 🧠
+
+
