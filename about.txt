@@ -1,27 +1,34 @@
-Crypto Mesh Node (CMN) - Alpha
+<b>Crypto Mesh Node (CMN) - Alpha</b><br><br>
 
-Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built for privacy, decentralization, and blockchain integration. It allows users to run nodes that connect directly to each other, send encrypted messages, and participate in the network while earning rewards.
+Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built for privacy, decentralization, and blockchain integration. It allows users to run nodes that connect directly to each other, send encrypted messages, and participate in the network while earning rewards.<br><br>
 
-Features:
-- Encrypted peer-to-peer messaging
-- Broadcast messaging to all connected nodes
-- Auto-generated Binance Smart Chain (BSC) wallets for reward tracking
-- Update feed integration from GitHub
-- Earn 1 coin every 30 days for staying online (NOT READY)
-- Easy-to-use GUI with PyQt6 interface
-- Secure private key management and message signing
+<b>Features:</b>
+<ul>
+<li>Encrypted peer-to-peer messaging</li>
+<li>Broadcast messaging to all connected nodes</li>
+<li>Auto-generated Binance Smart Chain (BSC) wallets for reward tracking</li>
+<li>Update feed integration from GitHub</li>
+<li>Earn 1 coin every 30 days for staying online (NOT READY)</li>
+<li>Easy-to-use GUI with PyQt6 interface</li>
+<li>Secure private key management and message signing</li>
+</ul>
 
-Getting Started:
-1. Install and launch the Crypto Mesh Node executable.
-2. Enter or load your node private key to connect.
-3. Use the tabs to view logs, broadcasts, updates, wallet info, and About information.
-4. Send messages to other nodes or broadcast to the network.
-5. Keep your node running to earn hourly rewards.
+<b>Getting Started:</b>
+<ol>
+<li>Install and launch the Crypto Mesh Node executable.</li>
+<li>Enter or load your node private key to connect.</li>
+<li>Use the tabs to view logs, broadcasts, updates, wallet info, and About information.</li>
+<li>Send messages to other nodes or broadcast to the network.</li>
+<li>Keep your node running to earn hourly rewards.</li>
+</ol>
 
-Support & Updates:
-- Check for updates automatically within the application.
+<b>Support & Updates:</b><br>
+- Check for updates automatically within the application.<br><br>
 
-Disclaimer:
-Crypto Mesh Node is provided as-is. Users are responsible for safeguarding their private keys and wallet information. The software is intended for educational and experimental purposes. Use at your own risk.
+<b>Disclaimer:</b><br>
+Crypto Mesh Node is provided as-is. Users are responsible for safeguarding their private keys and wallet information. The software is intended for educational and experimental purposes. Use at your own risk.<br><br>
 
+<b>Crypto Mesh Node v1.3 - Alpha</b><br>
+Version: Up to date (1.3)<br><br>
 
+<b>Developed by:</b> CryptoMesh Labs 🧠
