@@ -1,1 +1,27 @@
-test
+Crypto Mesh Node (CMN) - Alpha
+
+Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built for privacy, decentralization, and blockchain integration. It allows users to run nodes that connect directly to each other, send encrypted messages, and participate in the network while earning rewards.
+
+Features:
+- Encrypted peer-to-peer messaging
+- Broadcast messaging to all connected nodes
+- Auto-generated Binance Smart Chain (BSC) wallets for reward tracking
+- Update feed integration from GitHub
+- Earn 1 coin every 30 days for staying online (NOT READY)
+- Easy-to-use GUI with PyQt6 interface
+- Secure private key management and message signing
+
+Getting Started:
+1. Install and launch the Crypto Mesh Node executable.
+2. Enter or load your node private key to connect.
+3. Use the tabs to view logs, broadcasts, updates, wallet info, and About information.
+4. Send messages to other nodes or broadcast to the network.
+5. Keep your node running to earn hourly rewards.
+
+Support & Updates:
+- Check for updates automatically within the application.
+
+Disclaimer:
+Crypto Mesh Node is provided as-is. Users are responsible for safeguarding their private keys and wallet information. The software is intended for educational and experimental purposes. Use at your own risk.
+
+
