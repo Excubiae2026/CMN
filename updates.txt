@@ -2,4 +2,4 @@
 # Crypto Mesh Node - Updates
 # ============================
 
-Windows Client v1.6: https://mega.nz/file/u0NmWKiQ#e6bOxyzTObOjXiumu6JVfp6T_4ScaaeAG3oM_tIDMUw
+Windows Client v1.6: https://mega.nz/file/KwV1lJSa#FKkzaCafheHGtmx87OU7W1dtBGnLju1sCfn0qKvhOD4
