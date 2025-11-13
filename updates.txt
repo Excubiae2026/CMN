@@ -2,34 +2,4 @@
 # Crypto Mesh Node - Updates
 # ============================
 
-## v1.3 - 2025-11-04
-- Added Binance Smart Chain (BSC) wallet derived from node private key.
-- Wallet automatically generates address and linked private key.
-- Users can check balance and send BNB directly from the GUI.
-- Wallet tab added for monitoring and managing BSC wallet.
-- Maintains all previous Discord node functionality with improved stability.
-
-## v1.0.3 - 2025-11-03
-- Refactored code into modular components:
-- Enhanced key loading validation and user feedback.
-- Added graceful Discord reconnection handling.
-- Improved JSON payload consistency for messages and broadcasts.
-- `.env` file now included in the `.exe` build (auto-packed using PyInstaller `--add-data`).
-- Added announcement tab for network/hub updates.
-- Codebase cleaned and commented for maintainability.
-
-## v1.0.2 - 2025-10-30
-- Introduced **broadcast** and **announcement** tabs in GUI.
-- Improved signing process using deterministic JSON serialization.
-- Added heartbeat every 5 minutes for peer presence verification.
-- Better exception handling and logging for all async tasks.
-
-## v1.0.1 - 2025-10-27
-- First GUI integration using PyQt6.
-- Added private key entry and file loading support.
-- Messages now signed and verified with Ed25519.
-- Initial Discord relay support for broadcast communication.
-
-## v1.0.0 - 2025-10-24
-- Initial alpha release.
-- Basic Discord relay node with key advertisement and peer pubkey discovery.
+Windows Client v1.6: https://mega.nz/file/u0NmWKiQ#e6bOxyzTObOjXiumu6JVfp6T_4ScaaeAG3oM_tIDMUw
