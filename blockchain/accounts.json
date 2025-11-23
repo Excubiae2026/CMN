@@ -6,5 +6,9 @@
     {
         "pubkey": "03619ce84f9f1783d6f3023f4e57fc69aee7b877b5b29671ceaca665c8d28ca646",
         "balance": 0.05
+    },
+    {
+        "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
+        "balance": 0.0
     }
 ]
