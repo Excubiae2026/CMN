@@ -9,7 +9,7 @@
     },
     {
         "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
-        "balance": 457.6399999997288
+        "balance": 457.35999999972904
     },
     {
         "pubkey": "02cad10fe862d4d46901d7298f874ce31ce2995e259a50fa4f49e0ddcdb9799f64",
@@ -18,5 +18,9 @@
     {
         "pubkey": "0261e13a2deaec643cf9af563403715414d303ae8e1f1159c353a3078f732db6e2",
         "balance": 0.060000000000000005
+    },
+    {
+        "pubkey": "0376b81cbd7e752c952180967d21ef1329a50266b3dc8d760ed5b30e6e8dba5ebf",
+        "balance": 0.0
     }
 ]
