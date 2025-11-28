@@ -194,7 +194,9 @@
     "chunk_id": 27,
     "start_hex": "000000000000000000000000000000000000000000001f6db6db6db6db6db6cc",
     "end_hex": "000000000000000000000000000000000000000000001fffffffffffffffffff",
-    "current_hex": "000000000000000000000000000000000000000000001f6db8a43b4e4d31b6cc",
-    "completed": false
+    "current_hex": "000000000000000000000000000000000000000000001f6db8a43f8d2d9db6cc",
+    "completed": false,
+    "Address": "17tX2g4PGpd7n4szwUsrNVJbnN1cMbqS5K",
+    "Chunk ID": 27
   }
 ]
