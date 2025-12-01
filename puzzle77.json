@@ -193,8 +193,6 @@
     "start_hex": "000000000000000000000000000000000000000000001f6db6db6db6db6db6cc",
     "end_hex": "000000000000000000000000000000000000000000001fffffffffffffffffff",
     "current_hex": "000000000000000000000000000000000000000000001f6db8a43f97eb99b6cc",
-    "completed": false,
-    "Address": "1KiD5yL7Mc4wr478kJE5RfJznHti5S22mg",
-    "Chunk ID": 27
+    "completed": false
   }
 ]
