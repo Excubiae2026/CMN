@@ -8,5 +8,10 @@
         "pubkey": "022c26402fbcbeb807dbfea1ad626ceff80bd8f60d26a45d688dfeb9b560384ea7",
         "port": 0,
         "last_online": 1764640217
+    },
+    {
+        "pubkey": "03b3422ed15b5d79ebda38eea33cb85742f00405c59696504b5b3c773eeb6cab98",
+        "port": 0,
+        "last_online": 1764640329
     }
 ]
