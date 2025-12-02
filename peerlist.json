@@ -3,5 +3,10 @@
         "pubkey": "02dc9c3c4b90c143b715d1ffa69d68537c88aaa499192d7b8e0ec224e2adbfec81",
         "port": 0,
         "last_online": 1764640189
+    },
+    {
+        "pubkey": "022c26402fbcbeb807dbfea1ad626ceff80bd8f60d26a45d688dfeb9b560384ea7",
+        "port": 0,
+        "last_online": 1764640217
     }
 ]
