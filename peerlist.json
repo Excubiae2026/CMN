@@ -43,5 +43,10 @@
         "pubkey": "0228656a4f2b3853ab316c53da40d318c4d14fe282eb142bb25fad7ef5d8364c2f",
         "port": 0,
         "last_online": 1764995206
+    },
+    {
+        "pubkey": "021320631eb2dbc8db8ed3c83f8e2a2b5240b7b4c3599e82ac871328c6dd37f79c",
+        "port": 0,
+        "last_online": 1764995504
     }
 ]
