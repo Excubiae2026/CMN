@@ -5,11 +5,6 @@
         "last_online": 1764995445
     },
     {
-        "pubkey": "031aebc837fea4fbaf8e37c80a97da209f6fd4c96d33bfbaaa53501397346a5482",
-        "port": 0,
-        "last_online": 1764987912
-    },
-    {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "port": 0,
         "last_online": 1764994541
@@ -22,7 +17,7 @@
     {
         "pubkey": "03e0c9038bbae64c14839849b5f286c322d9a159da3e41235f0f7729e08e7c4eb3",
         "port": 0,
-        "last_online": 1764990958
+        "last_online": 1764999459
     },
     {
         "pubkey": "0244df5a4b0bf44ae7d144d3184433996a1cdafb86d07e3d27ed91a49748cc156e",
