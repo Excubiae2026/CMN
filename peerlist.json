@@ -1,37 +1,12 @@
 [
     {
-        "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
-        "port": 0,
-        "last_online": 1764995445
-    },
-    {
-        "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
-        "port": 0,
-        "last_online": 1764994541
-    },
-    {
-        "pubkey": "03e0c9038bbae64c14839849b5f286c322d9a159da3e41235f0f7729e08e7c4eb3",
-        "port": 0,
-        "last_online": 1764999488
-    },
-    {
-        "pubkey": "02d72662ef5c0ba9c60c134e52c48844632de47dd9d274fc28d498ffd4d9c21cc5",
-        "port": 0,
-        "last_online": 1764994337
-    },
-    {
-        "pubkey": "0228656a4f2b3853ab316c53da40d318c4d14fe282eb142bb25fad7ef5d8364c2f",
-        "port": 0,
-        "last_online": 1764995206
-    },
-    {
-        "pubkey": "021320631eb2dbc8db8ed3c83f8e2a2b5240b7b4c3599e82ac871328c6dd37f79c",
-        "port": 0,
-        "last_online": 1764995504
-    },
-    {
         "pubkey": "02de326b28ce654359fdba70b32d63417ebc0fd3b7396dd7f41de495db5073308d",
         "port": 0,
         "last_online": 1765003840
+    },
+    {
+        "pubkey": "0284b73f678802a55709cf2227f043ad72c4a39e720a7fdc39a55649f5f87b06cd",
+        "port": 0,
+        "last_online": 1765010572
     }
 ]
