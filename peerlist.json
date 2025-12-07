@@ -28,5 +28,10 @@
         "pubkey": "03c18fb4c1a1dcdc708770722a9c60ff9c3be0611e26f649b415487dc2d1bab983",
         "port": 0,
         "last_online": 1765136983
+    },
+    {
+        "pubkey": "03c6c3c1070eccd2fde56ba567309213b431ff74b3f7360fd4bd560ea8ce6befd7",
+        "port": 0,
+        "last_online": 1765138535
     }
 ]
