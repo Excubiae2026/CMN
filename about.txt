@@ -1,14 +1,35 @@
 <b>Crypto Mesh Node (CMN) - Alpha</b><br><br>
 
-Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built for privacy, decentralization, and blockchain integration. It allows users to run nodes that connect directly to each other, send encrypted messages, and participate in the network while earning rewards.<br><br>
+Crypto Mesh Node is a peer-to-peer messaging, broadcasting, and decentralized puzzle-solving application focused on privacy, community collaboration, and blockchain integration.<br><br>
+
+Our main mission is solving advanced Bitcoin puzzles — a process we call <b>mining</b>.  
+Each puzzle range is broken into <b>28 chunks</b>, and the target key exists somewhere inside one of these chunks. One person alone could never scan the entire range effectively, but a community working together makes it possible.<br><br>
+
+CMN distributes the workload across all active nodes, allowing the network to collectively scan <b>billions of keys per second</b>.<br><br>
+
+<b>Mining Rewards:</b><br>
+Each active worker contributes to the scanning effort.  
+You earn <b>0.01 CM</b> per active worker every few minutes as long as your workers remain online and active.<br><br>
+
+<b>Community Puzzle Reward:</b><br>
+If the network successfully solves the Bitcoin puzzle, the full reward is automatically <b>split between all CM coin holders</b>, proportional to their balance.<br><br>
+
+<b>Masternodes & Network Stability:</b><br>
+Starting a masternode helps keep the network fully decentralized.  
+Each masternode holds important operational data required to keep the network running smoothly, ensure message propagation, manage miner coordination, and maintain overall system stability.  
+The more masternodes running, the stronger and more resilient the CMN network becomes.<br><br>
 
 <b>Features:</b>
 <ul>
 <li>Encrypted peer-to-peer messaging</li>
 <li>Broadcast messaging to all connected nodes</li>
 <li>Auto-generated Binance Smart Chain (BSC) wallets for reward tracking</li>
+<li>Distributed Bitcoin puzzle scanning (28-chunk system)</li>
+<li>Collective key scanning at billions of keys per second</li>
+<li>Earn 0.01 CM per active worker every few minutes</li>
+<li>Puzzle reward split among all CM holders</li>
+<li>Masternodes keep the network decentralized and stable</li>
 <li>Update feed integration from GitHub</li>
-<li>Earn 1 coin every 30 days for staying online (NOT READY)</li>
 <li>Easy-to-use GUI with PyQt6 interface</li>
 <li>Secure private key management and message signing</li>
 </ul>
@@ -18,8 +39,8 @@ Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built 
 <li>Install and launch the Crypto Mesh Node executable.</li>
 <li>Enter or load your node private key to connect.</li>
 <li>Use the tabs to view logs, broadcasts, updates, wallet info, and About information.</li>
-<li>Send messages to other nodes or broadcast to the network.</li>
-<li>Keep your node running to earn hourly rewards.</li>
+<li>Run miners/workers to help scan puzzle chunks.</li>
+<li>Keep your node or masternode online to earn continuous rewards.</li>
 </ol>
 
 <b>Support & Updates:</b><br>
@@ -27,7 +48,3 @@ Crypto Mesh Node is a peer-to-peer messaging and broadcasting application built 
 
 <b>Disclaimer:</b><br>
 Crypto Mesh Node is provided as-is. Users are responsible for safeguarding their private keys and wallet information. The software is intended for educational and experimental purposes. Use at your own risk.<br><br>
-
-
-
-
