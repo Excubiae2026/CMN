@@ -137,14 +137,14 @@
     },
     {
         "pubkey": "03f78c6fcdde8a7fe7ffb3241928a0e2fd0fb69502426fc9cbd464ad9fb5d38269",
-        "balance": 0.15
+        "balance": 0.16
     },
     {
         "pubkey": "02f03ccfeced91fd65fbe89664e59ba3200279fbf359581bbb09df78eed2621804",
-        "balance": 0.17
+        "balance": 0.16
     },
     {
         "pubkey": "0224534303bf3e6b6f87cea33e840875c7ceb8e00f292f6e5e2a4894851a847895",
-        "balance": 0.01
+        "balance": 0.02
     }
 ]
