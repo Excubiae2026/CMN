@@ -1,12 +1,7 @@
 [
     {
-        "pubkey": "03f78c6fcdde8a7fe7ffb3241928a0e2fd0fb69502426fc9cbd464ad9fb5d38269",
-        "port": 0,
-        "last_online": 1765367753
-    },
-    {
         "pubkey": "03783f82302080173833c3d781e7d4a1ba88004403065777efdbdf04ce40ffb233",
         "port": 0,
-        "last_online": 1765377173
+        "last_online": 1765378719
     }
 ]
