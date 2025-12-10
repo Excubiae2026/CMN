@@ -122,5 +122,9 @@
     {
         "pubkey": "02de8dc6332b27362191e8e7c923cbcf05d629ba0d8b68f23c36c5df6bc03e845c",
         "balance": 0.05
+    },
+    {
+        "pubkey": "02adad23bf8d44571092d16ac608695e3745974d2a87728007f7e24fc4995a6292",
+        "balance": 0.01
     }
 ]
