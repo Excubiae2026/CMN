@@ -9,7 +9,7 @@
     },
     {
         "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
-        "balance": 1381.059999999034
+        "balance": 1381.039999999034
     },
     {
         "pubkey": "02cad10fe862d4d46901d7298f874ce31ce2995e259a50fa4f49e0ddcdb9799f64",
@@ -57,7 +57,7 @@
     },
     {
         "pubkey": "03696caafcebce9e928b0d721c751d52e8480571dcec510cc5a7ba7b40fe7cda52",
-        "balance": 0.10999999999999997
+        "balance": 0.09999999999999998
     },
     {
         "pubkey": "03b3422ed15b5d79ebda38eea33cb85742f00405c59696504b5b3c773eeb6cab98",
@@ -93,7 +93,7 @@
     },
     {
         "pubkey": "02de326b28ce654359fdba70b32d63417ebc0fd3b7396dd7f41de495db5073308d",
-        "balance": 85.32000000000262
+        "balance": 85.4800000000027
     },
     {
         "pubkey": "0284b73f678802a55709cf2227f043ad72c4a39e720a7fdc39a55649f5f87b06cd",
@@ -138,13 +138,5 @@
     {
         "pubkey": "03f78c6fcdde8a7fe7ffb3241928a0e2fd0fb69502426fc9cbd464ad9fb5d38269",
         "balance": 0.04
-    },
-    {
-        "pubkey": "02f4d508a3d7c971ad2d0c66f4b7fd55f8baaa5b82a0d470681f07065eddc70453",
-        "balance": 0.01
-    },
-    {
-        "pubkey": "02559738712d7ea79dcfabe60c7b600c997dc28751b86a95d6d8ba7fd2177fbe3b",
-        "balance": 0.1
     }
 ]
