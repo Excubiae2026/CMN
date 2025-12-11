@@ -48,6 +48,7 @@
         "bsc_address": "0x55816dEDC2894603D197eBF3B7899844a3478d9F",
         "amount": 1.0,
         "timestamp": "2025-12-11T21:48:59.378673",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T21:50:54.458361"
     }
 ]
