@@ -4,5 +4,10 @@
         "ip": "188.187.212.74",
         "port": 8000,
         "last_online": 1765433675
+    },
+    {
+        "pubkey": "02de326b28ce654359fdba70b32d63417ebc0fd3b7396dd7f41de495db5073308d",
+        "port": 0,
+        "last_online": 1765434027
     }
 ]
