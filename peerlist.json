@@ -1,13 +1,8 @@
 [
     {
-        "pubkey": "0309d9a78e179fe0133f234bada0791a7ccdd5cfb0c8ef8b7f7cf013b45783a21d",
-        "ip": "213.174.1.154",
+        "pubkey": "02f03ccfeced91fd65fbe89664e59ba3200279fbf359581bbb09df78eed2621804",
+        "ip": "195.86.65.70",
         "port": 8000,
-        "last_online": 1765438091
-    },
-    {
-        "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
-        "port": 0,
-        "last_online": 1765446655
+        "last_online": 1765450098
     }
 ]
