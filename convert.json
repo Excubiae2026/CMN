@@ -165,27 +165,35 @@
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 500.0,
         "timestamp": "2025-12-11T22:37:59.028873",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:48:12.869117",
+        "fee": 5.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 500.0,
         "timestamp": "2025-12-11T22:42:50.255572",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:48:16.923431",
+        "fee": 5.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:43:45.928101",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:48:20.079391",
+        "fee": 0.01
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:47:45.061428",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:48:22.274180",
+        "fee": 0.01
     }
 ]
