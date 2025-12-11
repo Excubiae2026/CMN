@@ -65,5 +65,12 @@
         "amount": 535.0,
         "timestamp": "2025-12-11T21:59:39.488047",
         "completed": false
+    },
+    {
+        "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
+        "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
+        "amount": 495.0,
+        "timestamp": "2025-12-11T22:07:11.997580",
+        "completed": false
     }
 ]
