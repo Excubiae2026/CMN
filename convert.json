@@ -66,76 +66,98 @@
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 535.0,
         "timestamp": "2025-12-11T21:59:39.488047",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:11.129931",
+        "fee": 5.3500000000000005
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 495.0,
         "timestamp": "2025-12-11T22:07:11.997580",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:16.327840",
+        "fee": 4.95
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:11:12.468539",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:19.129447",
+        "fee": 0.01
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:11:25.381330",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:22.279316",
+        "fee": 0.01
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:15:11.611332",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:24.438700",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:25:48.627640",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:27.426820",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:26:22.326801",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:29.631308",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:26:55.169370",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:31.999675",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:29:01.025453",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:35.706708",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 100.0,
         "timestamp": "2025-12-11T22:32:55.566214",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:37.904692",
+        "fee": 1.0
     },
     {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "amount": 200.0,
         "timestamp": "2025-12-11T22:34:23.001782",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T22:35:40.128284",
+        "fee": 2.0
     }
 ]
