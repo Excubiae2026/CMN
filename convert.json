@@ -201,20 +201,26 @@
         "bsc_address": "0x55816dEDC2894603D197eBF3B7899844a3478d9F",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:53:48.559866",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T23:43:25.900130",
+        "fee": 0.01
     },
     {
         "pubkey": "03b092ca147c5aa30007fc8624e9160a8cd6e6a87b98165c6d33bf0b553e262404",
         "bsc_address": "0x55816dEDC2894603D197eBF3B7899844a3478d9F",
         "amount": 1.0,
         "timestamp": "2025-12-11T22:54:59.933101",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T23:43:29.746255",
+        "fee": 0.01
     },
     {
         "pubkey": "030cf63a7b22221c764cea444d570e1cc478ba64235be56160cb3a9b2bfbf1f8d5",
         "bsc_address": "0x851949263113b41deAfC4D83997001553DB4Cb5E",
         "amount": 11.0,
         "timestamp": "2025-12-11T23:12:31.540846",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-11T23:43:32.627961",
+        "fee": 0.11
     }
 ]
