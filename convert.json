@@ -228,6 +228,8 @@
         "bsc_address": "0xE27C4965b854AdaB4280f7978B5fC861E58Cc4F0",
         "amount": 1.0,
         "timestamp": "2025-12-12T02:04:16.460321",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-12T02:10:26.484522",
+        "fee": 0.01
     }
 ]
