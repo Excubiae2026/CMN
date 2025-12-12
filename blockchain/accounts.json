@@ -10,5 +10,9 @@
     {
         "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
         "balance": 0.0
+    },
+    {
+        "pubkey": "03783f82302080173833c3d781e7d4a1ba88004403065777efdbdf04ce40ffb233",
+        "balance": 0.09999999999999999
     }
 ]
