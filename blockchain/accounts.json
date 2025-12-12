@@ -8,18 +8,6 @@
         "balance": 1.5
     },
     {
-        "pubkey": "02c1dc0e5e07edf758ed4458abbbc2d00695295a40e0e73249ab4d2e67a1eeb68e",
-        "balance": 0.0
-    },
-    {
-        "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
-        "balance": 0.0
-    },
-    {
-        "pubkey": "03783f82302080173833c3d781e7d4a1ba88004403065777efdbdf04ce40ffb233",
-        "balance": 0.060000000000000005
-    },
-    {
         "pubkey": "03696caafcebce9e928b0d721c751d52e8480571dcec510cc5a7ba7b40fe7cda52",
         "balance": 0.0
     }
