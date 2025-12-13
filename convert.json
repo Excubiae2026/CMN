@@ -245,8 +245,9 @@
         "pubkey": "02de326b28ce654359fdba70b32d63417ebc0fd3b7396dd7f41de495db5073308d",
         "bsc_address": "0x57C8C3fed9cFF7E20A782B979Fc7dA006431fB68",
         "amount": 618.75,
-        "fee": 6.25,
+        "fee": 6.1875,
         "timestamp": "2025-12-13T04:28:06.245205",
-        "completed": false
+        "completed": true,
+        "completed_timestamp": "2025-12-13T16:07:19.458928"
     }
 ]
