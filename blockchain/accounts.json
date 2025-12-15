@@ -166,5 +166,9 @@
     {
         "pub_key": "03d356abeeacb6b77e1b8849cfa578b41ad6d53f605f2970d33ab8e3842596133f",
         "balance": 0.0
+    },
+    {
+        "pub_key": "0244df5a4b0bf44ae7d144d3184433996a1cdafb86d07e3d27ed91a49748cc156e",
+        "balance": 0.0
     }
 ]
