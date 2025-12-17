@@ -258,5 +258,13 @@
         "timestamp": "2025-12-15T14:16:17.642501",
         "completed": true,
         "completed_timestamp": "2025-12-15T17:08:07.982445"
+    },
+    {
+        "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
+        "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
+        "amount": 99.0,
+        "fee": 1.0,
+        "timestamp": "2025-12-17T20:01:00.130360",
+        "completed": false
     }
 ]
