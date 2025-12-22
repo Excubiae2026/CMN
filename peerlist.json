@@ -1,12 +1,7 @@
 [
     {
-        "pubkey": "0244df5a4b0bf44ae7d144d3184433996a1cdafb86d07e3d27ed91a49748cc156e",
-        "port": 0,
-        "last_online": 1766318839
-    },
-    {
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
-        "timestamp": "2025-12-22T01:53:30.703327Z"
+        "timestamp": "2025-12-22T01:58:42.101596Z"
     }
 ]
