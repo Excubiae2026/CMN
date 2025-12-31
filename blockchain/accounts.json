@@ -1,10 +1,10 @@
 [
     {
-        "pubkey": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
+        "pub_key": "0352d947a69969ce04bbe918bb64a64af88da7f9c5f8be74e57b6f30ca8dc77184",
         "balance": 0.0
     },
     {
-        "pubkey": "03f7fbf8aa3a87e37cc3c46bdc469d059dd8e75534c931d65ff8765d9bc617dd31",
+        "pub_key": "02d3520cc1f744b59730e491ded4569e6069b5aad751b1922c0b5c58d6af309abf",
         "balance": 0.0
     }
 ]
