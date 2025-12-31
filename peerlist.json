@@ -3,5 +3,10 @@
         "pubkey": "03431d9c401bad32f3b17292e99471a83b4c7a4d77517657f0a8a3136fb3532db4",
         "bsc_address": "0x9C46B12dB7d4bC9e86Ca5c59E8D1562331afECE8",
         "timestamp": "2025-12-25T02:02:53.878867Z"
+    },
+    {
+        "pubkey": "0352d947a69969ce04bbe918bb64a64af88da7f9c5f8be74e57b6f30ca8dc77184",
+        "bsc_address": "0x2bee581c03f4Cc7E7eD12ac229BCf6fE23AbFd0B",
+        "timestamp": "2025-12-31T05:12:33.263707Z"
     }
 ]
